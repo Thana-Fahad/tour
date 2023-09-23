@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523454241379",
+    "project_id": "tour-e8977",
+    "storage_bucket": "tour-e8977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523454241379:android:d0ec0a50009f5cebe3f656",
+        "android_client_info": {
+          "package_name": "com.example.tour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGegxc9duPGwU1KZuOX006dcVfs6PpvEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
